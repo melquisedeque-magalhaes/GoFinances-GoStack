@@ -9,8 +9,10 @@ export default createGlobalStyle`
   }
 
   body {
+    overflow-x: hidden !important;
     background: #F0F2F5 ;
-    -webkit-font-smoothing: antialiased
+    -webkit-font-smoothing: antialiased;
+    max-width: 100vw;
   }
 
   body, input, button {
@@ -20,4 +22,5 @@ export default createGlobalStyle`
   button {
     cursor: pointer;
   }
+
 `;
