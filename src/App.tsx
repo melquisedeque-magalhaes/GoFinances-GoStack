@@ -8,7 +8,7 @@ import GlobalStyle from './styles/global';
 const App: React.FC = () => (
   <>
     <GlobalStyle />
-    <Router>
+    <Router basename={window.location.pathname || ''}>
       <Routes />
     </Router>
   </>
