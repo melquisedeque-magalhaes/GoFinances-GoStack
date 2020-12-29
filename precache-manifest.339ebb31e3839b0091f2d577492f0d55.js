@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "488061257dd15ed1e181f2d15051cb3b",
+    "revision": "a2a3e457b9ebde2d5ceaae261a7c81e1",
     "url": "/GoFinances-GoStack/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GoFinances-GoStack/static/js/2.2e3f1e7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc90c677860423669865",
-    "url": "/GoFinances-GoStack/static/js/main.da445acf.chunk.js"
+    "revision": "aff25eba3e91c7e205b4",
+    "url": "/GoFinances-GoStack/static/js/main.86ba2988.chunk.js"
   },
   {
     "revision": "b5da2b987a614ec72a07",
