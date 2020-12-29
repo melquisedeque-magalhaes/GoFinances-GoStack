@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.e4901ab9.chunk.js",
-    "main.js.map": "/static/js/main.e4901ab9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.964e4442.js",
-    "runtime-main.js.map": "/static/js/runtime-main.964e4442.js.map",
-    "static/css/2.1c164e0d.chunk.css": "/static/css/2.1c164e0d.chunk.css",
-    "static/js/2.5d5ccc90.chunk.js": "/static/js/2.5d5ccc90.chunk.js",
-    "static/js/2.5d5ccc90.chunk.js.map": "/static/js/2.5d5ccc90.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.efe959c1e242865e301db06464cf1966.js": "/precache-manifest.efe959c1e242865e301db06464cf1966.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.1c164e0d.chunk.css.map": "/static/css/2.1c164e0d.chunk.css.map",
-    "static/js/2.5d5ccc90.chunk.js.LICENSE.txt": "/static/js/2.5d5ccc90.chunk.js.LICENSE.txt",
-    "static/media/alert.svg": "/static/media/alert.78a343ae.svg",
-    "static/media/income.svg": "/static/media/income.df4567f0.svg",
-    "static/media/logo.svg": "/static/media/logo.ce269cac.svg",
-    "static/media/outcome.svg": "/static/media/outcome.bb31a5f3.svg",
-    "static/media/total.svg": "/static/media/total.7f99c5ac.svg"
+    "main.js": "/GoFinances-GoStack/static/js/main.e4901ab9.chunk.js",
+    "main.js.map": "/GoFinances-GoStack/static/js/main.e4901ab9.chunk.js.map",
+    "runtime-main.js": "/GoFinances-GoStack/static/js/runtime-main.c00a8305.js",
+    "runtime-main.js.map": "/GoFinances-GoStack/static/js/runtime-main.c00a8305.js.map",
+    "static/css/2.1c164e0d.chunk.css": "/GoFinances-GoStack/static/css/2.1c164e0d.chunk.css",
+    "static/js/2.2e3f1e7c.chunk.js": "/GoFinances-GoStack/static/js/2.2e3f1e7c.chunk.js",
+    "static/js/2.2e3f1e7c.chunk.js.map": "/GoFinances-GoStack/static/js/2.2e3f1e7c.chunk.js.map",
+    "index.html": "/GoFinances-GoStack/index.html",
+    "precache-manifest.d1d5fee90a58d30d44af1d06e1b6fda8.js": "/GoFinances-GoStack/precache-manifest.d1d5fee90a58d30d44af1d06e1b6fda8.js",
+    "service-worker.js": "/GoFinances-GoStack/service-worker.js",
+    "static/css/2.1c164e0d.chunk.css.map": "/GoFinances-GoStack/static/css/2.1c164e0d.chunk.css.map",
+    "static/js/2.2e3f1e7c.chunk.js.LICENSE.txt": "/GoFinances-GoStack/static/js/2.2e3f1e7c.chunk.js.LICENSE.txt",
+    "static/media/alert.svg": "/GoFinances-GoStack/static/media/alert.78a343ae.svg",
+    "static/media/income.svg": "/GoFinances-GoStack/static/media/income.df4567f0.svg",
+    "static/media/logo.svg": "/GoFinances-GoStack/static/media/logo.ce269cac.svg",
+    "static/media/outcome.svg": "/GoFinances-GoStack/static/media/outcome.bb31a5f3.svg",
+    "static/media/total.svg": "/GoFinances-GoStack/static/media/total.7f99c5ac.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.964e4442.js",
+    "static/js/runtime-main.c00a8305.js",
     "static/css/2.1c164e0d.chunk.css",
-    "static/js/2.5d5ccc90.chunk.js",
+    "static/js/2.2e3f1e7c.chunk.js",
     "static/js/main.e4901ab9.chunk.js"
   ]
 }
