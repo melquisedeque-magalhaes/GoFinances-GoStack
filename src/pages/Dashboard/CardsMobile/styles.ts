@@ -6,9 +6,7 @@ interface CardProps {
 }
 
 export const CardContainer = styled(Carousel)`
-  position: absolute;
-
-  margin-top: -150px;
+  margin-top: -60px;
   width: 100%;
 
   div {

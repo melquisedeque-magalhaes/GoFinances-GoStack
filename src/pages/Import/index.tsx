@@ -50,9 +50,11 @@ const Import: React.FC = () => {
     setUploadedFiles(uploadFiles);
   }
 
+  const size = window.screen.width > 600 ? 'large' : 'small';
+
   return (
     <>
-      <Header size="small" />
+      <Header size={size} />
       <Container>
         <Title>Importar uma transação</Title>
         <ImportFileContainer>

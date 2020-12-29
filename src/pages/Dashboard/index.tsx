@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { RemoveScroll } from 'react-remove-scroll';
 
 import api from '../../services/api';
 
@@ -65,11 +64,14 @@ const Dashboard: React.FC = () => {
     loadTransactions();
   }, []);
 
+  const size = window.screen.width > 600 ? 'large' : 'small';
+
   return (
     <>
-      <Header />
+      <Header size={size} />
+
       <Container>
-        {window.screen.width > 600 ? (
+        {size === 'large' ? (
           <CardsDesktop
             income={balance.income}
             outcome={balance.outcome}
@@ -83,7 +85,7 @@ const Dashboard: React.FC = () => {
           />
         )}
 
-        {window.screen.width > 600 ? (
+        {size === 'large' ? (
           <TableContainer transactions={transactions} />
         ) : (
           <ListTransactions transactions={transactions} />
