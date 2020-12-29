@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/GoFinances-GoStack/static/js/main.86ba2988.chunk.js",
-    "main.js.map": "/GoFinances-GoStack/static/js/main.86ba2988.chunk.js.map",
+    "main.js": "/GoFinances-GoStack/static/js/main.5a057edc.chunk.js",
+    "main.js.map": "/GoFinances-GoStack/static/js/main.5a057edc.chunk.js.map",
     "runtime-main.js": "/GoFinances-GoStack/static/js/runtime-main.c00a8305.js",
     "runtime-main.js.map": "/GoFinances-GoStack/static/js/runtime-main.c00a8305.js.map",
     "static/css/2.1c164e0d.chunk.css": "/GoFinances-GoStack/static/css/2.1c164e0d.chunk.css",
     "static/js/2.2e3f1e7c.chunk.js": "/GoFinances-GoStack/static/js/2.2e3f1e7c.chunk.js",
     "static/js/2.2e3f1e7c.chunk.js.map": "/GoFinances-GoStack/static/js/2.2e3f1e7c.chunk.js.map",
     "index.html": "/GoFinances-GoStack/index.html",
-    "precache-manifest.339ebb31e3839b0091f2d577492f0d55.js": "/GoFinances-GoStack/precache-manifest.339ebb31e3839b0091f2d577492f0d55.js",
+    "precache-manifest.753d5ed0f98696c1494e506d0fa9b884.js": "/GoFinances-GoStack/precache-manifest.753d5ed0f98696c1494e506d0fa9b884.js",
     "service-worker.js": "/GoFinances-GoStack/service-worker.js",
     "static/css/2.1c164e0d.chunk.css.map": "/GoFinances-GoStack/static/css/2.1c164e0d.chunk.css.map",
     "static/js/2.2e3f1e7c.chunk.js.LICENSE.txt": "/GoFinances-GoStack/static/js/2.2e3f1e7c.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.c00a8305.js",
     "static/css/2.1c164e0d.chunk.css",
     "static/js/2.2e3f1e7c.chunk.js",
-    "static/js/main.86ba2988.chunk.js"
+    "static/js/main.5a057edc.chunk.js"
   ]
 }

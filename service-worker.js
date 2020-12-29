@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GoFinances-GoStack/precache-manifest.339ebb31e3839b0091f2d577492f0d55.js"
+  "/GoFinances-GoStack/precache-manifest.753d5ed0f98696c1494e506d0fa9b884.js"
 );
 
 self.addEventListener('message', (event) => {
