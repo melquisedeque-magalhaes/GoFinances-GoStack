@@ -35,6 +35,8 @@
 
 ## 📱 Projeto
 
+Site Demo 🗒️: https://melquisedeque-magalhaes.github.io/GoFinances-GoStack/
+
 <p>
   O GoFinances é uma aplicação web e mobile para gerenciamento de entrada e saida do seu dinheiro. Essa aplicação foi construída durante o bootcamp GoStack 11 da <a href="https://rocketseat.com.br/">Rocketseat</a>
   🚀
