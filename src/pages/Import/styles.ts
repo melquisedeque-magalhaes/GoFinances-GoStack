@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import { shade } from 'polished';
 
 export const Container = styled.div`
+  flex-wrap: wrap;
   width: 100%;
   max-width: 736px;
   margin: 0 auto;
@@ -10,17 +11,18 @@ export const Container = styled.div`
 
 export const Title = styled.h1`
   font-weight: 500;
-  font-size: 36px;
+  font-size: ${window.screen.width < 600 ? '36px' : '24'};
   line-height: 54px;
   color: #363f5f;
   text-align: center;
 `;
 
 export const ImportFileContainer = styled.section`
+  flex-wrap: wrap;
   background: #fff;
   margin-top: 40px;
   border-radius: 5px;
-  padding: 64px;
+  padding: ${window.screen.width < 600 ? '64px' : '24px'};
 `;
 
 export const Footer = styled.section`
@@ -28,6 +30,7 @@ export const Footer = styled.section`
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-direction: ${window.screen.width < 600 ? 'column' : 'row'};
 
   p {
     display: flex;
@@ -42,6 +45,7 @@ export const Footer = styled.section`
   }
 
   button {
+    margin-top: ${window.screen.width < 600 ? '16px' : '0px'};
     background: #ff872c;
     color: #fff;
     border-radius: 5px;
